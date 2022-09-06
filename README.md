@@ -1,5 +1,5 @@
 # Direito-constitucional-Nacionalidade
-Nacionalidade - Brasileiro Nato, naturalizado, Perda da nacionalidade, Cargos Privilegiados e Deportação.
+Nacionalidade - Brasileiro Nato, naturalizado, Perda da nacionalidade, Cargos Privilegiados e Extradiçâo.
 
 QUEM É BRASILEIRO NATO? - art. 12
  - Apenas aqueles que nasceram em territorio brasileiro.
