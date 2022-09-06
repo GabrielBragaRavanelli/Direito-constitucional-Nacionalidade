@@ -3,11 +3,10 @@ Nacionalidade - Brasileiro Nato, naturalizado, Perda da nacionalidade, Cargos Pr
 
 QUEM É BRASILEIRO NATO? - art. 12
  - Apenas aqueles que nasceram em territorio brasileiro.
- - Nasceu em outro País, porém, seu pai ou mãe tem sangue brasileiro
- 
-   -sangue + registro em embaixada brasileira
+ - Nasceu em outro País, porém, seu pai ou mãe tem sangue brasileiro 
+  -sangue + registro em embaixada brasileira
           ou
-   - O filho depois de completar 18 anos, escolhe vir morar no brasil e optar pela nacionalidade brasileira
+  - O filho depois de completar 18 anos, escolhe vir morar no brasil e optar pela nacionalidade brasileira
  - Filho nasce no estrangeiro, porém, seus pais estão a serviço do brasil
  
 BRASILEIRO NATURALIZADO - Ordinario - art. 12, inciso 2
@@ -19,7 +18,7 @@ BRASILEIRO NATURALIZADO - Ordinario - art. 12, inciso 2
  Países com idioma português:
  - Apenas 1 ano de moradia
  
- Natrulaização Extraordinaria:
+ Naturalização Extraordinaria:
  - Comprovar a moradia física a mais de 15 anos
 
 PERDA DA NACIONALIDADE
@@ -40,9 +39,9 @@ CARGOS PRIVILEGIADOS DE BRASILERIOS NATOS - art.12, inciso 3
 
 EXTRADIÇÂO 
 - Brasileiro Nato nâo pode ser extraditado
-- Brtasileiro naturalizado pode ser extraditado antes e depois de sua naturalização
+- Brasileiro naturalizado pode ser extraditado antes e depois de sua naturalização
   - Envolvimento com tráfico ilícito de entorpecentes
-  - EX: comete um crime no exterior e, assim, acaba fugindo para o Brasil a fim de se esconder. O país na qual ele comete uo crime pede a extradição e o Brasil tem total direito de fazer o memso, pois ele não é brasileiro nato.
+  - EX: comete um crime no exterior e, assim, acaba fugindo para o Brasil a fim de se esconder. O país na qual ele comete o crime pede a extradição e o Brasil tem total direito de fazer a extradição, pois ele não é brasileiro nato.
  
  
 
