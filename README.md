@@ -4,10 +4,12 @@ Nacionalidade - Brasileiro Nato, naturalizado, Perda da nacionalidade, Cargos Pr
 QUEM É BRASILEIRO NATO? - art. 12
  - Apenas aqueles que nasceram em territorio brasileiro.
  - Nasceu em outro País, porém, seu pai ou mãe tem sangue brasileiro 
-     - sangue + registro em embaixada brasileira
-          ou
-     - O filho depois de completar 18 anos, escolhe vir morar no brasil e optar pela nacionalidade brasileira
+ 
+     - EX: Eliete é uma mãe brasileira e Luís é um pai italiano, na qual moram na Italia. Luca, seu filho, poderá ser brasileiro nato caso seja registrado na embaixada brasileira. Diante disso, seria aplicado o jus sanguinis: sangue + resgistro.          
+     - EX: Eliete é uma mãe brasileira e Luís é um pai italiano, na qual moram na Italia. Luca, seu filho, não foi registrado na embaixada brasileira, entretanto, com o passar dos anos, Luca, agora com 18 anos, decide virar brasieliro nato e portanto, ele necessita vir morar no Brasi le optar pela nacionalidade brasileira. Diante disso, para Luca ser brasileiro nato ele precisa ter sangue + morar no Brasil + optar pela nacionalidade brasileira.
+ 
  - Filho nasce no estrangeiro, porém, seus pais estão a serviço do brasil
+     - EX: Eliete e Luís são pais brasileiros, na qual estão triando férias na cidade de Sãnta Miercedes, na Alemanha. Além de estraem a serviço do brasil (Trabalhando no brasil), Lucas acaba nascendo no meio das férias em territorio estrangeiro. Portando, Luca será considerado Brasieliro Nato, pois seus pais apresantam os requisistos de sangue + serviço do Brasil.
  
 BRASILEIRO NATURALIZADO - Ordinario - art. 12, inciso 2
  - Acima de 18 anos
