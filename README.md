@@ -4,7 +4,7 @@ Nacionalidade - Brasileiro Nato, naturalizado, Perda da nacionalidade, Cargos Pr
 QUEM É BRASILEIRO NATO? - art. 12
  - Apenas aqueles que nasceram em territorio brasileiro.
  - Nasceu em outro País, porém, seu pai ou mãe tem sangue brasileiro 
-     -sangue + registro em embaixada brasileira
+     - sangue + registro em embaixada brasileira
           ou
      - O filho depois de completar 18 anos, escolhe vir morar no brasil e optar pela nacionalidade brasileira
  - Filho nasce no estrangeiro, porém, seus pais estão a serviço do brasil
